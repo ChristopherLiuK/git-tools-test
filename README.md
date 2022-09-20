@@ -1,3 +1,3 @@
 # git-tools-test
 
-this is a minor change
+this is a minor
