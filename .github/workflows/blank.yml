@@ -32,6 +32,7 @@ jobs:
         with:
           versionSpec: '5.x'
           includePrerelease: true
+          additionalArguments: '/showConfig'
           
       - name: Init
         run : dotnet-gitversion
